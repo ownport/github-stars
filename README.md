@@ -17,7 +17,7 @@ Just my github starts
     
     The Koalas project makes data scientists more productive when interacting with big data, by implementing the pandas DataFrame API on top of Apache Spark.
 
-## API
+## Specifications
 
 - The OpenAPI Specification Repository https://openapis.org
     - link: https://github.com/OAI/OpenAPI-Specification
