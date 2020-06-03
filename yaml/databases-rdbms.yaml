@@ -8,3 +8,12 @@
   references:
   - https://beekeeperstudio.io/
 
+- name: rqlite
+  link: https://github.com/rqlite/rqlite
+  description: >
+    rqlite is a lightweight, distributed relational database, which uses SQLite as its storage engine. Forming a cluster 
+    is very straightforward, it gracefully handles leader elections, and tolerates failures of machines, including 
+    the leader. rqlite is available for Linux, OSX, and Microsoft Windows.
+  references:
+  - http://www.rqlite.com/
+

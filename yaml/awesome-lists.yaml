@@ -6,3 +6,10 @@
   references:
   - https://github.com/maguowei/starred
 
+- name: awesome-python
+  link: https://github.com/vinta/awesome-python
+  description: A curated list of awesome Python frameworks, libraries, software and resources 
+  references:
+  - https://awesome-python.com/
+
+  

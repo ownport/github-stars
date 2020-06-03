@@ -12,3 +12,16 @@
     implementation logic. Similar to what interface descriptions have done for lower-level programming, 
     the OpenAPI Specification removes guesswork in calling a service.
 
+- name: public-apis
+  link: https://github.com/public-apis/public-apis
+  description: A collective list of free APIs for use in software and web development.
+
+- name: public-api
+  link: https://github.com/davemachado/public-api
+  description: > 
+    Public API for the public-apis Github project. This service supports CORS and requires no authentication 
+    to use. All responses are sent over HTTPS as well.
+  references:
+  - https://api.publicapis.org/
+
+

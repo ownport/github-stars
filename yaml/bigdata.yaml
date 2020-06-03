@@ -1,6 +1,6 @@
 ---
 
-- name: Koalas: pandas API on Apache Spark 
+- name: "Koalas: pandas API on Apache Spark"
   link: https://github.com/databricks/koalas
   description: >
     The Koalas project makes data scientists more productive when interacting with big data, by implementing 

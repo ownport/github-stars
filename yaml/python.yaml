@@ -9,4 +9,4 @@
 - name: gera2ld/async_dns 
   link: https://github.com/gera2ld/async_dns
   description: Asynchronous DNS server and client built with pure Python.
-  
+
