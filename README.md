@@ -17,7 +17,10 @@ Just my github starts
 ```yaml
 - name: Koalas: pandas API on Apache Spark 
   link: https://github.com/databricks/koalas
-  description: The Koalas project makes data scientists more productive when interacting with big data, by implementing the pandas DataFrame API on top of Apache Spark.
+  description: >
+    The Koalas project makes data scientists more productive when
+    interacting with big data, by implementing the pandas DataFrame 
+    API on top of Apache Spark.
 ```
 
 ## Specifications
@@ -25,5 +28,17 @@ Just my github starts
 ```yaml
 - name: The OpenAPI Specification Repository https://openapis.org
   link: https://github.com/OAI/OpenAPI-Specification
-  description:  The OpenAPI Specification is a community-driven open specification within the OpenAPI Initiative, a Linux Foundation Collaborative Project.The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for REST APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic. When properly defined via OpenAPI, a consumer can understand and interact with the remote service with a minimal amount of implementation logic. Similar to what interface descriptions have done for lower-level programming, the OpenAPI Specification removes guesswork in calling a service.
+  description:  >
+    The OpenAPI Specification is a community-driven open specification
+    within the OpenAPI Initiative, a Linux Foundation Collaborative
+    Project.The OpenAPI Specification (OAS) defines a standard,
+    programming language-agnostic interface description for REST APIs
+    which allows both humans and computers to discover and understand
+    the capabilities of a service without requiring access to source
+    code, additional documentation, or inspection of network traffic.
+    When properly defined via OpenAPI, a consumer can understand and
+    interact with the remote service with a minimal amount of
+    implementation logic. Similar to what interface descriptions have
+    done for lower-level programming, the OpenAPI Specification 
+    removes guesswork in calling a service.
 ```
