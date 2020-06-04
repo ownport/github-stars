@@ -2,7 +2,7 @@
 
 - name: The Algorithms | Python
   link: https://github.com/TheAlgorithms/Python
-  description: > 
+  description: |
     All Algorithms implemented in Python. These implementations are for learning purposes. 
     They may be less efficient than the implementations in the Python standard library.
   references:
@@ -10,28 +10,28 @@
 
 - name: The Algorithms | Java
   link: https://github.com/TheAlgorithms/Java
-  description: > 
+  description: | 
     All Algorithms implemented in Java (for education purposes)
 
 - name: The Algorithms | Go
   link: https://github.com/TheAlgorithms/Go
-  description: > 
+  description: | 
     All Algorithms implemented in GoLang. These algorithms are for demonstration purposes only. 
     There are many sort implementations in the Go standard library that may have better performance.
 
 - name: The Algorithms | Javascript
   link: https://github.com/TheAlgorithms/Javascript
-  description: > 
+  description: | 
     A repository for All algorithms implemented in Javascript. These are for demonstration purposes 
     only. There are many implementations of sorts in the JavaScript standard library that are much 
     better for performance reasons. 
 
 - name: The Algorithms | Scala
   link: https://github.com/TheAlgorithms/Scala
-  description: > 
+  description: | 
     All Algorithms implemented in Scala  
 
 - name: The Algorithms | Rust
   link: https://github.com/TheAlgorithms/Rust
-  description: > 
+  description: | 
     All Algorithms implemented in Rust (for educational purposes)

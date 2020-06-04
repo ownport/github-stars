@@ -2,7 +2,7 @@
 
 - name: webhook
   link: https://github.com/adnanh/webhook
-  description: >
+  description: |
     webhook is a lightweight configurable tool written in Go, that allows you to easily create 
     HTTP endpoints (hooks) on your server, which you can use to execute configured commands. 
     You can also pass data from the HTTP request (such as headers, payload or query variables) 

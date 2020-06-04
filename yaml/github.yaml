@@ -1,0 +1,11 @@
+---
+
+- name: stargazers
+  link: https://github.com/spencerkimball/stargazers
+  description: |
+    Analyze GitHub stars. Illuminate your GitHub community by delving into your repo's stars. GitHub allows 
+    visitors to star a repo to bookmark it for later perusal. Stars represent a casual interest in a repo, 
+    and when enough of them accumulate, it's natural to wonder what's driving interest. Stargazers attempts 
+    to get a handle on who these users are by finding out what else they've starred, which other repositories 
+    they've contributed to, and who's following them on GitHub.
+

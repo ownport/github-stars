@@ -1,0 +1,9 @@
+---
+
+- name: next.js
+  link: https://github.com/vercel/next.js
+  description: |
+    The React Framework
+  references:
+  - https://nextjs.org/
+

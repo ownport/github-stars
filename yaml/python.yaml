@@ -2,11 +2,21 @@
 
 - name: tuupola/pybranca 
   link: https://github.com/tuupola/pybranca
-  description: Authenticated and encrypted API tokens using modern crypto.
+  description: | 
+    Authenticated and encrypted API tokens using modern crypto.
   references:
   - https://branca.io/
 
 - name: gera2ld/async_dns 
   link: https://github.com/gera2ld/async_dns
-  description: Asynchronous DNS server and client built with pure Python.
+  description: | 
+    Asynchronous DNS server and client built with pure Python.
+
+- name: commonmark.py
+  link: https://github.com/readthedocs/commonmark.py
+  description: |
+    Python CommonMark parser. commonmark.py is a pure Python port of jgm's commonmark.js, 
+    a Markdown parser and renderer for the CommonMark specification, using only native modules.
+  references:
+  - https://commonmarkpy.readthedocs.io/en/latest/
 

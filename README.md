@@ -7,7 +7,10 @@ Just my github starts
 - [BigData](yaml/bigdata.yaml)
 - [Databases | RDBMS](yaml/databases-rdbms.yaml)
 - [Design](yaml/design.yaml)
+- [GitHub](yaml/github.yaml)
+- [JavaScript](yaml/javascript.yaml)
 - [Python](yaml/python.yaml)
+- [Security](yaml/security.yaml)
 - [Services](yaml/services.yaml)
 - [Specifications](yaml/specifications.yaml)
 

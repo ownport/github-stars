@@ -2,7 +2,13 @@
 
 - name: "Koalas: pandas API on Apache Spark"
   link: https://github.com/databricks/koalas
-  description: >
+  description: |
     The Koalas project makes data scientists more productive when interacting with big data, by implementing 
     the pandas DataFrame API on top of Apache Spark.
+
+- name: GoogleCloudPlatform/spark-on-k8s-operator
+  link: https://github.com/GoogleCloudPlatform/spark-on-k8s-operator
+  description: | 
+    Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes. 
+    This is not an officially supported Google product.
 

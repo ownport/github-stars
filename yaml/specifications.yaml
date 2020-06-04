@@ -2,7 +2,7 @@
 
 - name: The OpenAPI Specification Repository https://openapis.org
   link: https://github.com/OAI/OpenAPI-Specification
-  description:  >
+  description: |
     The OpenAPI Specification is a community-driven open specification within the OpenAPI Initiative, 
     a Linux Foundation Collaborative Project.The OpenAPI Specification (OAS) defines a standard,
     programming language-agnostic interface description for REST APIs which allows both humans and 
@@ -14,11 +14,12 @@
 
 - name: public-apis
   link: https://github.com/public-apis/public-apis
-  description: A collective list of free APIs for use in software and web development.
+  description: | 
+    A collective list of free APIs for use in software and web development.
 
 - name: public-api
   link: https://github.com/davemachado/public-api
-  description: > 
+  description: | 
     Public API for the public-apis Github project. This service supports CORS and requires no authentication 
     to use. All responses are sent over HTTPS as well.
   references:
