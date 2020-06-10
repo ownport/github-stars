@@ -11,12 +11,21 @@
       Ingress) are maintained together
     - unify application environments across cloud providers
     - enable a sustainable and fully automated Gitops workflow     
-  resources:
+  references:
   - https://www.kubestack.com/
 
 - name: microk8s
   link: https://github.com/ubuntu/microk8s
   description: |
     Single-package fully conformant lightweight Kubernetes that works on 42 flavours of Linux. 
-  resources:
+  references:
   - https://microk8s.io/
+
+- name: pipeline
+  link: https://github.com/banzaicloud/pipeline
+  description: |
+    Banzai Cloud Pipeline is a solution-oriented application platform which allows enterprises to develop, 
+    deploy and securely scale container-based applications in multi- and hybrid-cloud environments.
+  references:
+  - https://banzaicloud.com/products/pipeline/
+

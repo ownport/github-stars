@@ -1,0 +1,22 @@
+---
+
+- name: flashlight
+  link: https://github.com/facebookresearch/flashlight
+  description: |
+    flashlight is a fast, flexible machine learning library written entirely in C++ from 
+    the Facebook AI Research Speech team and the creators of Torch and Deep Speech. It uses 
+    the ArrayFire tensor library and features just-in-time compilation with modern C++. 
+    flashlight supports both CPU (still in active development) and GPU backends for maximum 
+    portability, and has an emphasis on efficiency and scale.
+  references:
+  - https://fl.readthedocs.io/en/latest/
+
+- name: arrayfire
+  link: https://github.com/arrayfire/arrayfire
+  description: |
+    ArrayFire is a general-purpose library that simplifies the process of developing software 
+    that targets parallel and massively-parallel architectures including CPUs, GPUs, and other 
+    hardware acceleration devices.
+  references:
+  - https://arrayfire.com/
+

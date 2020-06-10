@@ -1,0 +1,9 @@
+---
+
+- name: listmonk
+  link: https://github.com/knadh/listmonk
+  description: High performance, self-hosted newsletter and mailing list manager with a modern dashboard.
+  references:
+  - https://listmonk.app/
+  - https://listmonk.app/docs/
+

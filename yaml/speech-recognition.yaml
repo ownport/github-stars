@@ -1,0 +1,60 @@
+---
+
+- name: DeepSpeech
+  link: https://github.com/PaddlePaddle/DeepSpeech
+  description: | 
+    DeepSpeech2 on PaddlePaddle is an open-source implementation of end-to-end Automatic 
+    Speech Recognition (ASR) engine, based on Baidu's Deep Speech 2 paper, with PaddlePaddle 
+    platform. Our vision is to empower both industrial application and academic research on speech 
+    recognition, via an easy-to-use, efficient and scalable implementation, including training, 
+    inference & testing module, and demo deployment. Besides, several pre-trained models for 
+    both English and Mandarin are also released.
+  references:
+  - https://github.com/PaddlePaddle/Paddle
+
+- name: wav2letter
+  link: https://github.com/facebookresearch/wav2letter
+  description: |
+    wav2letter++ is a fast, open source speech processing toolkit from the Speech team at Facebook 
+    AI Research built to facilitate research in end-to-end models for speech recognition. It is written 
+    entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for 
+    maximum efficiency.
+  references:
+  - https://github.com/facebookresearch/wav2letter/wiki
+
+- name: julius
+  link: https://github.com/julius-speech/julius
+  description: |
+    "Julius" is a high-performance, small-footprint large vocabulary continuous speech recognition (LVCSR) 
+    decoder software for speech-related researchers and developers. Based on word N-gram and context-dependent 
+    HMM, it can perform real-time decoding on various computers and devices from micro-computer to cloud 
+    server. The algorithm is based on 2-pass tree-trellis search, which fully incorporates major decoding 
+    techniques such as tree-organized lexicon, 1-best / word-pair context approximation, rank/score pruning, 
+    N-gram factoring, cross-word context dependency handling, enveloped beam search, Gaussian pruning, 
+    Gaussian selection, etc. Besides search efficiency, it is also modularized to be independent from model 
+    structures, and wide variety of HMM structures are supported such as shared-state triphones and tied-mixture 
+    models, with any number of mixtures, states, or phone sets. It also can run multi-instance recognition, 
+    running dictation, grammar-based recognition or isolated word recognition simultaneously in a single thread. 
+    Standard formats are adopted for the models to cope with other speech/language modeling toolkit such as 
+    HTK, SRILM, etc. Recent version also supports Deep Neural Network (DNN) based real-time decoding.
+  references:
+  - https://github.com/julius-speech/dictation-kit
+  - https://github.com/julius-speech/grammar-kit
+  - https://github.com/julius-speech/segmentation-kit
+  - https://github.com/julius-speech/prompter
+
+- name: kaldi
+  link: https://github.com/kaldi-asr/kaldi
+  description: |
+    This is the official location of the Kaldi project
+  references:
+  - http://kaldi-asr.org/
+
+- name: DeepSpeech
+  link: https://github.com/mozilla/DeepSpeech
+  description: |
+    DeepSpeech is an open source Speech-To-Text engine, using a model trained by machine learning techniques based 
+    on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation 
+    easier.
+  references:
+  - http://deepspeech.readthedocs.io/

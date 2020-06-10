@@ -1,0 +1,8 @@
+---
+
+- name: canonical/server-jenkins-jobs 
+  link: https://github.com/canonical/server-jenkins-jobs
+  description: |
+    This repo contains the Jenkins Job Builder definitions. This is split into various folders 
+    based on the project. This way specific projects can be updated without affecting the other projects.
+
